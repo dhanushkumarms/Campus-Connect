@@ -36,7 +36,14 @@ CampusConnect is a smart, collaborative platform that streamlines **academic res
 |-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
 | ![](/cc_ss/7.jpg) | ![](/cc_ss/8.jpg) | ![](/cc_ss/9.jpg) | ![](/cc_ss/10.jpg) | ![](/cc_ss/11.jpg) | ![](/cc_ss/landing.jpg) |
 
+---
+---
+
+| ![](/cc_ss/landing2.png) | ![](/cc_ss/landing1.png) |
+|--------------------------|--------------------------|
+
 </div>
+
 
 ## 🛠️ Tech Stack  
 
