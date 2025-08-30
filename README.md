@@ -28,6 +28,15 @@ CampusConnect is a smart, collaborative platform that streamlines **academic res
 - 🔔 **Notifications** – Stay informed with instant alerts.  
 
 ---
+## 📸 Screenshots  
+
+<div align="center">
+
+| ![](/cc_ss/1.jpg) | ![](/cc_ss/2.jpg) | ![](/cc_ss/3.jpg) | ![](/cc_ss/4.jpg) | ![](/cc_ss/5.jpg) | ![](/cc_ss/6.jpg) |
+|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+| ![](/cc_ss/7.jpg) | ![](/cc_ss/8.jpg) | ![](/cc_ss/9.jpg) | ![](/cc_ss/10.jpg) | ![](/cc_ss/11.jpg) | ![](/cc_ss/landing.jpg) |
+
+</div>
 
 ## 🛠️ Tech Stack  
 
@@ -53,17 +62,7 @@ CampusConnect is a smart, collaborative platform that streamlines **academic res
 
 
 ---
-## 📸 Screenshots  
 
-<div align="center">
-
-| ![Landing Page](screenshots/landing.png) | ![Dashboard](screenshots/dashboard.png) |
-|------------------------------------------|------------------------------------------|
-| ![Events](screenshots/events.png)        | ![Resources](screenshots/resources.png)  |
-
-</div>
-
----
 ## ⚙️ Installation & Requirements  
 
 ### 🔹 Frontend Setup  
